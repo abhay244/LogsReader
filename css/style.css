@@ -1,0 +1,14 @@
+.container{
+    max-width: 1000px;
+    border: 2px solid black;
+    overflow-y: auto;
+    overflow-x: auto;
+    margin: auto;
+    height: 90vh;
+}
+#text{
+    margin: auto;
+    overflow-y: auto;
+    overflow-x: auto;
+    padding: 14px;
+}
